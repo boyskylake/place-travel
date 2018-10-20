@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="category">
+        <item>วัด</item>
+        <item>น้ำตก</item>
+        <item>ภูเขา</item>
+        <item>อุทยาน</item>
+        <item>อื่นๆ</item>
+    </string-array>
+    <string-array name="choice_select_image">
+        <item>ถ่ายรูป</item>
+        <item>อัลบั้มรูป</item>
+    </string-array>
+</resources>
